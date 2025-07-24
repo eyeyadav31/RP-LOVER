@@ -14,7 +14,7 @@ from pyrogram import filters
 load_dotenv()
 
 from Jani-Music import app
-from Jani-Music.core.call import Istkhar
+from Jani-Music.core.call import Jani
 from Jani-Music.misc import db
 from Jani-Music.utils.database import get_assistant, get_authuser_names, get_cmode
 from Jani-Music.utils.decorators import ActualAdminCB, AdminActual, language
