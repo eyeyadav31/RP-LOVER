@@ -177,5 +177,5 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 ### 🙏 Acknowledgements
 
 Thanks to all the contributors, supporters, and users of the Istkhar Music Bot. Your feedback and support keep us going!
-- [Istkhar Music Bot](https://t.me/Jani_Music_Robot) and [Istkhar Music](https://github.com/Jani_Music/Jani-Music) For their Source Codes.
+- [Jani Music Bot](https://t.me/Jani_Music_Robot) and [Jani Music](https://github.com/Jani_Music/Jani-Music) For their Source Codes.
 - for invaluable assistance in resolving the IP ban issue.
