@@ -36,7 +36,7 @@ from Jani-Music.utils.formatters import check_duration, seconds_to_min, speed_co
 from Jani-Music.utils.inline.play import stream_markup
 from Jani-Music.utils.stream.autoclear import auto_clean
 from Jani-Music.utils.thumbnails import gen_thumb
-from Jani-Music. import get_string
+from strings import get_string
 
 autoend = {}
 counter = {}
