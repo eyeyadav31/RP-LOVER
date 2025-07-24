@@ -19,7 +19,7 @@ from pytgcalls.types.stream import StreamAudioEnded
 import config
 from Jani-Music import LOGGER, YouTube, app
 from Jani-Music.misc import db
-from Jani-Music.utils.database import (
+from Jani-Music.utils.database import (Istkhar
     add_active_chat,
     add_active_video_chat,
     get_lang,
