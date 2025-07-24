@@ -1,7 +1,7 @@
-<h1 align="center">🎵 Istkhar Music🎵</h1>
+<h1 align="center">🔥 Jani Music ⚡</h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/k1gf6k.jpg" alt="Istkhar Music Logo" width="600" height="150">
+  <img src="https://files.catbox.moe/u15ml3.jpg" alt="Jani Music Logo" width="600" height="150">
 </p>
 
 <p align="center">
@@ -16,10 +16,10 @@
 ---
 
 <p align="center">
-  <a href="https://Istkharhost.in/">
+  <a href="https://JaniRP.in/">
     <img src="https://img.shields.io/badge/Cheapest%20Web%20Hosting-1A237E?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cheapest Web Hosting">
   </a>
-  <a href="https://t.me/Istkhar_Syn">
+  <a href="https://t.me/Jani_RP_Lover">
     <img src="https://img.shields.io/badge/Contact%20Owner-2E64FE?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact Owner">
   </a>
 </p>
@@ -135,7 +135,7 @@ The Istkhar Music Bot offers a range of commands to enhance your music listening
 | /stop                 | Stop the bot and clear the queue.           |
 | /queue                | Display the list of songs in the queue.     |
 
-For a full list of commands, use /help in [telegram](https://t.me/IstkharumusicBot).
+For a full list of commands, use /help in [telegram](https://t.me/JanimusicBot).
 
 ---
 
@@ -177,5 +177,5 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 ### 🙏 Acknowledgements
 
 Thanks to all the contributors, supporters, and users of the Istkhar Music Bot. Your feedback and support keep us going!
-- [Istkhar Music Bot](https://t.me/KittuXrobot) and [Istkhar Music](https://github.com/TEAM-ISTKHAR/Jani-Music) For their Source Codes.
+- [Istkhar Music Bot](https://t.me/Jani_Music_Robot) and [Istkhar Music](https://github.com/Jani_Music/Jani-Music) For their Source Codes.
 - for invaluable assistance in resolving the IP ban issue.
