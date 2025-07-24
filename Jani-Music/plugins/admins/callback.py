@@ -4,7 +4,7 @@ from pyrogram import filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 from Jani-Music import YouTube, app
-from Jani-Music.core.call import Istkhar
+from Jani-Music.core.call import Jani-Music 
 from Jani-Music.misc import SUDOERS, db
 from Jani-Music.utils.database import (
     get_active_chats,
