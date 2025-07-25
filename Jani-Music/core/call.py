@@ -17,8 +17,8 @@ from pytgcalls.types.input_stream.quality import HighQualityAudio, MediumQuality
 from pytgcalls.types.stream import StreamAudioEnded
 
 import config
-from Jani-Music import LOGGER, YouTube, app
-from Jani-Music.misc import db
+from Istkhar import LOGGER, YouTube, app
+from Istkhar.misc import db
 from Jani-Music.utils.database import (
     add_active_chat,
     add_active_video_chat,
@@ -31,11 +31,11 @@ from Jani-Music.utils.database import (
     remove_active_video_chat,
     set_loop,
 )
-from Jani-Music.utils.exceptions import AssistantErr
-from Jani-Music.utils.formatters import check_duration, seconds_to_min, speed_converter
-from Jani-Music.utils.inline.play import stream_markup
-from Jani-Music.utils.stream.autoclear import auto_clean
-from Jani-Music.utils.thumbnails import gen_thumb
+from Istkhar.utils.exceptions import AssistantErr
+from Istkhar.utils.formatters import check_duration, seconds_to_min, speed_converter
+from Istkhar.utils.inline.play import stream_markup
+from Istkhar.utils.stream.autoclear import auto_clean
+from Istkhar.utils.thumbnails import gen_thumb
 from strings import get_string
 
 autoend = {}
